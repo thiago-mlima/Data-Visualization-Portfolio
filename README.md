@@ -21,3 +21,11 @@ This is a collection of some of my data visualizations about a variety of topics
 #
 ### [Obstetric Fistula in Magadascar](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/obstetric-fistula-in-madagascar)
 <img src="obstetric-fistula-in-madagascar/obstetric_fistula_plot.png">
+
+#
+### [Literacy rates in sub-saharan Africa](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/literacy-rates-in-sub-saharan-africa) 
+<img src="literacy-rates-in-sub-saharan-africa/literacy_rates_plot.png">
+
+#
+### [UK visits abroad](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/uk-visits-abroad)
+<img src="uk-visits-abroad/uk_visits_abroad_plot.png">
