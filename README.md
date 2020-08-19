@@ -23,6 +23,10 @@ This is a collection of some of my data visualizations about a variety of topics
 <img src="obstetric-fistula-in-madagascar/obstetric_fistula_plot.png">
 
 #
+### [Government budget in the EU](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/government-budget-in-the-eu)
+<img src="government-budget-in-the-eu/government-budget-in-the-eu.png">
+
+#
 ### [Literacy rates in sub-saharan Africa](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/literacy-rates-in-sub-saharan-africa) 
 <img src="literacy-rates-in-sub-saharan-africa/literacy_rates_plot.png">
 
