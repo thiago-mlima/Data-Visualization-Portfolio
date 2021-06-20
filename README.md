@@ -10,7 +10,10 @@
 
 <div align="left">
   
-This is a collection of some of my data visualizations about a variety of topics such as economics and social issues. Each folder contains the final plot as well as the Python script and data used to create it without any post-processing. Use the links below to navigate directly to the associated directory.
+This is a collection of some miscellaneous data visualizations I have created to illustrate my approach to Data Storytelling and design. Each folder contains the final plot as well as the Python-based Jupyter Notebook and data used to create it without any post-processing. Use the links below to navigate directly to the associated directory.
+
+Of course, any feedback is always greatly appreciated so feel free to reach out via Linkedin or email.
+
 
 </div>
 
