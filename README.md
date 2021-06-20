@@ -19,6 +19,10 @@ This is a collection of some of my data visualizations about a variety of topics
 [tableau]:https://public.tableau.com/profile/thiago.moreira#!/
 
 #
+### [Cost of Mobile Data](https://https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/cost-of-mobile-data)
+<img src=cost_of_mobile_data_plot.png">
+
+#
 ### [Obstetric Fistula in Magadascar](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/obstetric-fistula-in-madagascar)
 <img src="obstetric-fistula-in-madagascar/obstetric_fistula_plot.png">
 
