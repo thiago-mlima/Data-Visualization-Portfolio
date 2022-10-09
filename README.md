@@ -17,9 +17,9 @@ Of course, any feedback is always greatly appreciated so feel free to reach out 
 
 </div>
 
-[LinkedIn]:https://www.linkedin.com/in/thiagomoreiradelima/
+[LinkedIn]:https://www.linkedin.com/in/mlima-thiago/
 [Email]:mailto:thiago.moreira.lima@outlook.com
-[tableau]:https://public.tableau.com/profile/thiago.moreira#!/z
+[tableau]:https://public.tableau.com/app/profile/mlima.thiago
 
 #
 ### [Cost of Mobile Data](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/cost-of-mobile-data)
