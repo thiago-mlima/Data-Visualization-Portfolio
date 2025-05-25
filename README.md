@@ -4,22 +4,22 @@
 
 <div align="center">
 
-:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Tableau Public][tableau]
+:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Tableau Public][tableau]
 
 </div>
 
 <div align="left">
   
-This is a collection of some miscellaneous data visualizations I have created to illustrate my approach to Data Storytelling and design. Each folder contains the final plot as well as the Python-based Jupyter Notebook and data used to create it without any post-processing. Use the links below to navigate directly to the associated directory.
+This is a collection of miscellaneous data visualizations created to illustrate my approach to data storytelling, and as a personal exercise to design compelling plots using only Python and Matplotlib, without any post-processing.
 
-Of course, any feedback is always greatly appreciated so feel free to reach out via Linkedin or email.
+Each folder contains the final plot along with the Python-based Jupyter Notebook and dataset used to generate it. Use the links below to navigate directly to each example.
 
+Feel free to reach out if you have any feedback, questions, or just want to exchange knowledge on data visualization and storytelling.
 
 </div>
 
 [LinkedIn]:https://www.linkedin.com/in/mlima-thiago/
-[Email]:mailto:thiago.moreira.lima@outlook.com
-[tableau]:https://public.tableau.com/app/profile/mlima.thiago
+[tableau]:https://public.tableau.com/app/profile/mlima.thiago/vizzes
 
 #
 ### [Cost of Mobile Data](https://github.com/thiago-mlima/Data-Visualization-Portfolio/tree/master/cost-of-mobile-data)
