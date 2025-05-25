@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Data Visualization Portfolio&nbsp;
+  &nbsp;Data Visualization with Python&nbsp;
 </h1>
 
 <div align="center">
